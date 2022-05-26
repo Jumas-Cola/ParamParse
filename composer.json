@@ -1,0 +1,18 @@
+{
+    "name": "jumas-cola/param-parse",
+    "description": "Simple library for I/O handling.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JumasCola\\ParamParse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jumas",
+            "email": "kbbyfl91@gmail.com"
+        }
+    ],
+    "require": {}
+}
